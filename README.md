@@ -2,7 +2,7 @@
 # Darsana P G
 
 [![Gmail](https://img.shields.io/badge/GMAIL-green)](mailto:darsanapg95@gmail.com)
-[![LinkedIn Connect](https://img.shields.io/badge/LINKEDIN-yellow)]((https://www.linkedin.com/in/darsanapg95)
+[![LinkedIn Connect](https://img.shields.io/badge/LINKEDIN-yellow)](https://www.linkedin.com/in/darsanapg95/)
 [![LinkedIn Connect](https://img.shields.io/badge/WEBSITE-red)](https://my-portfolio-three-bay.vercel.app/)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Darsana+P+G;+Welcome+to+My+Profile!;Over+1.11+years+of+programming+experience;Always+learning+new+things+;Android++enthusiast+;Front+end+Developer;)](https://git.io/typing-svg)
 
